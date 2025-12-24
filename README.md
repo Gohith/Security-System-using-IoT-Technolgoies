@@ -20,4 +20,4 @@ In brief, list of major concept's widely used in IoT communication and security 
 For detailed understanding of ESP32 and it's siblings please have a look at offiial source "http://esp32.net/" and from river to ocean here "https://docs.espressif.com/projects/esp-idf/en/latest/esp32/"
 Enjoy the embedded system knowledge.<br />
 
-------  Note: The files were already in lazy state and waiting for some coding guidelines. Soon will be done  ------
+------  Note: The files show an example of necessary peripherals/modules usage  ------
